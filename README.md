@@ -314,6 +314,7 @@ Potential future versions of SENTINEL may include:
 These are planned future enhancements and are not part of the current SQL + Power BI implementation.
 
 📌 Project Summary
+
 SENTINEL demonstrates how SQL and Power BI can be used not only for reporting historical performance, but also for building a structured business-risk monitoring system.
 The project combines:
 
