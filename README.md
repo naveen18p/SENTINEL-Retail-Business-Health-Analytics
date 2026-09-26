@@ -267,7 +267,7 @@ SENTINEL-Retail-Business-Health-Analytics/
 │
 ├── README.md
 │
-├── SENTINEL_Retail_Business_Health_Analytics.pbix
+├── SENTINEL.pbix
 │
 ├── SQL/
 │   ├── 01_database_setup.sql
