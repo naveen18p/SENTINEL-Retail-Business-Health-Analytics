@@ -324,13 +324,13 @@ Potential future versions of SENTINEL may include:
 - Python-based anomaly detection
   
 - Predictive risk modeling
-- 
+  
 - Revenue forecasting
-- 
+  
 - Automated risk alerts
-- 
+ 
 - Product-level risk scoring
-- 
+
 - Customer churn prediction
 These are planned future enhancements and are not part of the current SQL + Power BI implementation.
 
