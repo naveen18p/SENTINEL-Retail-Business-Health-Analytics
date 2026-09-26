@@ -286,30 +286,51 @@ SENTINEL-Retail-Business-Health-Analytics/
 ```
 
 ▶️ How to Explore the Project
+
 SQL
+
 Run the SQL scripts in numerical order:
+
 01 → Database Setup
+
 02 → Revenue Analysis
+
 03 → Profitability Analysis
+
 04 → Return Risk
+
 05 → Inventory Risk
+
 06 → Customer Retention
+
 07 → Satisfaction Analysis
+
 08 → Complaint Analysis
+
 09 → Business Health Scoring
 
 Power BI
+
 Download:
+
 SENTINEL_Retail_Business_Health_Analytics.pbix
 
 and open it using Power BI Desktop.
+
 🚀 Future Enhancements
+
 Potential future versions of SENTINEL may include:
+
 - Python-based anomaly detection
+  
 - Predictive risk modeling
+- 
 - Revenue forecasting
+- 
 - Automated risk alerts
+- 
 - Product-level risk scoring
+- 
 - Customer churn prediction
 These are planned future enhancements and are not part of the current SQL + Power BI implementation.
 
