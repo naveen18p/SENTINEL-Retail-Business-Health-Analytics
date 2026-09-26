@@ -262,6 +262,7 @@ The project uses several SQL concepts including:
 - Dynamic Insights
 - Dynamic Recommended Actions
 📁 Repository Structure
+```text
 SENTINEL-Retail-Business-Health-Analytics/
 │
 ├── README.md
@@ -282,6 +283,7 @@ SENTINEL-Retail-Business-Health-Analytics/
 └── Screenshots/
     ├── executive_risk_overview.png
     └── store_risk_deep_dive.png
+```
 
 ▶️ How to Explore the Project
 SQL
